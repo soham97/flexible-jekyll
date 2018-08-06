@@ -13,6 +13,13 @@ Siemens MakeItReal hackathon conducted by hackerearth was an amazing experience 
 ## Idea inspiration
 Being a Siemens intern who had just dipped his feet in machine learning, I could first hand experience the problem of machine downtime and what it was costing Siemens. With appropriate sensor network, calculating the breakdown time of machine seemed plausible to me (didn't know at that time it was called RUL). The ROI on the idea was also large, and would help every manufacturing plant. Having big goals in mind, the only thing left was just making the idea work ;)
 
+How will it directly affect the industry?
+-- Downtime of machine reduced.
+-- Maintenance cost and extra labour costs which would be otherwise required eliminated.
+• Precious time of supervisors and officers saved, which can be utilized in other creative purposes
+beneficial to the company.
+• The above points contribute in increasing the efficiency and throughput of factory.
+
 ## Lets get technical
 ### --System architecture and data flow:
 The entire system was mainly constructed in python with additional use of publicly available libraries. The prototype we built consisted of following parts:-
@@ -33,11 +40,16 @@ The most important step was the successful prediction of algorithm on large nois
 ### -- Machine learning model
 The model consisted of two stacked LSTM layers followed by a neuron for multi-class classification and relu activation layer for regression task. The cell outputs of first LSTM where fed to the second LSTM which feed its output to either to a neuron or relu layer. A dropout of 40% was used to prevent overfitting. RMSprop was used as optimizer and the model was trained with a learning rate of 0.001 and batch size of 200. Given a time frame of 24 hours, Keras was ideal choice to develop the model. 
 
+### -- Model results
+
+
 ### -- Visualized
 The results were visualised using an android application and a web app. Initially we thought of displaying it on HMI, but as control rooms are not near machines in factory plus the additional benefits of portablitiy of android phone made us develop both of the solutions.
 
 <!-- ![I and My friends]({{site.baseurl}}/assets/_images/pm1.png) -->
-![I and My friends]({{site.baseurl}}/_images/pm1.png)
+<p align="center">
+<img src="../_images/pm1.png">                                                                    
+</p>
 
 ## Hackathon results
 The idea was shortlisted in online round and in the offline prototyping round (in Bangalore) we were ranked at 4th position out of 25 teams.
