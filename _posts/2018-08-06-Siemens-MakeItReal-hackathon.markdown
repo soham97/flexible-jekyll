@@ -4,7 +4,7 @@ layout: post
 title: Siemens MakeITReal Hackathon
 date: 2018-08-06 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: siemens/siemens.jpg # Add image post (optional)
 tags: [hackathon, software, machinelearning] # add tag
 ---
 ## Hackathon details
@@ -46,10 +46,12 @@ The model consisted of two stacked LSTM layers followed by a neuron for multi-cl
 ### -- Visualized
 The results were visualised using an android application and a web app. Initially we thought of displaying it on HMI, but as control rooms are not near machines in factory plus the additional benefits of portablitiy of android phone made us develop both of the solutions.
 
-<!-- ![I and My friends]({{site.baseurl}}/assets/_images/pm1.png) -->
-<p align="center">
-<img src="../_images/pm1.png">                                                                    
-</p>
+![Web application]({{site.baseurl}}/assets/img/siemens/web.jpg){:height="400px" width="600px" align="left"}
+![Android application]({{site.baseurl}}/assets/img/siemens/android.png){:height="400px" width="200px align="right"}
+
+<!-- <p align="center">
+<img src="/assets/img/siemens/android.png">                                                                    
+</p> -->
 
 ## Hackathon results
 The idea was shortlisted in online round and in the offline prototyping round (in Bangalore) we were ranked at 4th position out of 25 teams.
