@@ -58,6 +58,8 @@ Though this could have been a better dashboard, given the limited time this is w
 <br>
 
 ## Hackathon results
+![presenting the idea]({{site.baseurl}}/assets/img/siemens/present.jpg)
+<br>
 The idea was shortlisted in online round. In offline round (Bangalore) after evaluation by judges, our team was further shortlisted in top 5 teams. The top 5 teams had the honour to present their idea and solution to the entire audience with a question round in the end. After such scrutinating process we were awarded 4th prize in the competition. 
 
 
