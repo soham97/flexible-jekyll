@@ -44,4 +44,4 @@ Some images of the application:
 ![1]({{site.baseurl}}/assets/img/notes/notes3.png){:height="560px" width="300px"}
 
 <br>
-#### Moreover learning to develop functional android apps helped me in numerous hackathons for presenting and visualsing the results. I still use my notes app as my daily scribbling devices, with 700+ notes made and still going strong, its going to remain my daily driver for years to come :) 
+#### Moreover learning to develop functional android apps helped me in numerous hackathons for presenting and visualsing the results. I still use my notes app as my daily scribbler, with 700+ notes made and still going strong, its going to remain my daily driver for years to come :) 
