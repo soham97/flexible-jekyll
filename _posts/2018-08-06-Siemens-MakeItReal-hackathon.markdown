@@ -45,15 +45,15 @@ The model consisted of two stacked LSTM layers followed by a neuron for multi-cl
 ### -- Model results
 Taking sequence length for learning and prediction as 50, we were getting accuracy of range of about 98 to 89 percent for binary classification, 95 to 88 percent for multiclass classification and mean-squared-error range of 245 to 461. (The results were given in range due to the presence of 4 datasets in increasing complexity)
 
-![loss]({{site.baseurl}}/assets/img/siemens/loss.png){:height="200px" width="300px"}
-![mse]({{site.baseurl}}/assets/img/siemens/mse.png){:height="200px" width="300px}
-![prediction]({{site.baseurl}}/assets/img/siemens/prediction.png){:height="200px" width="300px"}
+![loss]({{site.baseurl}}/assets/img/siemens/loss.png){:height="50%" width="50%"}
+![mse]({{site.baseurl}}/assets/img/siemens/mse.png){:height="50%" width="50%}
+![prediction]({{site.baseurl}}/assets/img/siemens/prediction.png){:height="50%" width="100%"}
 
 
 ### -- Visualized
 The results were visualised using an android application and a web app. Initially we thought of displaying it on HMI, but as control rooms are not near machines in factory plus the additional benefits of portablitiy of android phone made us develop both of the solutions.
 
-![Web application]({{site.baseurl}}/assets/img/siemens/web.jpg){:height="400px" width="700px"}
+![Web application]({{site.baseurl}}/assets/img/siemens/web.jpg){:height="100%" width="60%"}
 ![Android application]({{site.baseurl}}/assets/img/siemens/android.png){:height="400px" width="200px}
 <br>
 Though this could have been a better dashboard, given the limited time this is what we could come up with.
