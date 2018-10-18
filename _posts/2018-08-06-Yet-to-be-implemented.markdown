@@ -10,8 +10,8 @@ tags: [] # add tag
 Competitions, hackathon and projects yet to be documented:
 
 - Automatic number plate data generation and Deep learning based Automatic Number plate recognition 
-- AnalyticsVidya Lords Machine learning hackathon (8th position): Optimizing email marketing campaigns with machine learning,
+- Analytics Vidya Lords Machine learning hackathon (8th position): Optimizing email marketing campaigns with machine learning,
 - Sentiment analysis to enhance stock market prediction
 - Deep learning based collaborative recommender system
 - Raspberry powered Smart Mirror
-- IICDC – DST and Texas instruments Quaterfinalist, Posture detection system
+- IICDC – DST and Texas instruments Quarterfinalist, Posture detection system

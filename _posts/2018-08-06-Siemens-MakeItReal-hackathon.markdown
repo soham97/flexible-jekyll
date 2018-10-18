@@ -13,7 +13,7 @@ Siemens MakeItReal hackathon conducted by Hackerearth was an amazing experience 
 ## Idea inspiration
 Being a Siemens intern who had just dipped his feet in machine learning, I could first-hand experience the problem of machine downtime and what it was costing Siemens. With appropriate sensor network, calculating the breakdown time of machine seemed plausible to me (didn't know at that time it was called RUL). The ROI on the idea was also large, and would help every manufacturing plant.
 
-How will it directly affect the industry?<br>
+How will it directly affect the industry? <br>
 • Downtime of machine reduced
 <br>
 • Maintenance cost and extra labour costs which would be otherwise required eliminated
@@ -34,7 +34,7 @@ The entire system was mainly constructed in python with additional use of public
 
 ### -- Framing the problem statement for model development
 1. The problem statement was framed as given the current and previous n steps of k sensor data predict the remaining useful life of the machine. The RUL can directly be predicted by framing it as a regression problem.
-2. The second approach was as a classification problem. Given the initial assumption rather than predicting the RUL, classify whether the machine will fail in next n1, n2,...nm hours where m ranges from 2 to 36. Hence this becomes a multi-class problem and not binary.
+2. The second approach was as a classification problem. Given the initial assumption rather than predicting the RUL, classify whether the machine will fail in next n1, n2, ...nm hours where m ranges from 2 to 36. Hence this becomes a multi-class problem and not binary.
 
 ### -- Dataset and pre-processing
 The most important step was the successful prediction of algorithm on large noisy data. Hence we choose to use an external dataset to display the effectiveness of the algorithm even after building the data pipeline. NASA’s popular C-MAPSS turbofan engine dataset which has inherent characteristics like high variance due to sensor noise, effects of operating conditions, and presence of multiple simultaneous fault modes, which generalizes well to other prognostic applications was chosen. The CMPASS consisted of 4 datasets each with increasing noise. The dataset was pre-processed using normalization and using Kalman filter to remove the noise present. The <u>Kalman</u> filter employed on sensors readings had a large positive impact on its predicitve power i.e rmse for regression and accuracy for classification.
