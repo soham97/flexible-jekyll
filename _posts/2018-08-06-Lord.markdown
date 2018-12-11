@@ -165,4 +165,4 @@ The overall solution consists of a weighted average ensemble of two boosting alg
 
 <b> My team consisting of 2 including me, ranked 8th in this competition out of 3594 competitors. Thanks and congrats to my teammate Rahul, who also helped me put up this article.</b>
 
-<b>Github repo of algorithms </b>: https://github.com/soham97/Remaining_useful_life_NASA
+<b>Github repository</b>: [https://github.com/soham97/Lord-of-the-Machine-Data-Science-Hackathon](https://github.com/soham97/Lord-of-the-Machine-Data-Science-Hackathon)

@@ -68,4 +68,4 @@ The idea was shortlisted in online round. In offline round (Bangalore) after eva
 
 #### In all it was a great experience, met a lot of talented students, built something functional within deadline, explored Bangalore and had fun.
 
-<b>Github repo of algorithms </b>: https://github.com/soham97/Remaining_useful_life_NASA
+<b>Github repo of algorithms </b>: [https://github.com/soham97/Remaining_useful_life_NASA](https://github.com/soham97/Remaining_useful_life_NASA)
