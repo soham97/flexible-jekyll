@@ -120,7 +120,7 @@ AUC ROC score
 <img src="{{site.baseurl}}/assets/img/lord/ccoc_is1.png" alt="Distribution CC OC for is_click=1"/>
 </p>
 
-Further data analysis - <a href="https://github.com/imrahulr/Lord-of-the-Machines/blob/master/eda.ipynb">Link</a><br>
+Further data analysis - <a href="https://github.com/soham97/Lord-of-the-Machine-Data-Science-Hackathon/blob/master/eda.ipynb">Link</a><br>
 
 
 ---
