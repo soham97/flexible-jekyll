@@ -11,15 +11,13 @@ Competitions, hackathon and projects yet to be documented and uploaded online:
 
 - Automatic number plate data generation and Deep learning based Automatic Number plate recognition 
 
-- Analytics Vidya Lords Machine learning hackathon (8th position): Optimizing email marketing campaigns with machine learning. My friend Rahul Rade who was my team mate in this hackathon has documented this on his [github repository](https://github.com/imrahulr/Lord-of-the-Machines)
-
 - Sentiment analysis to enhance stock market prediction
 
 - Deep learning based collaborative recommender system
 
 - Raspberry powered Smart Mirror
 
-- IICDC – DST and Texas instruments Quarterfinalist, Posture detection system
+- IICDC – DST and Texas instruments Quarterfinalist, Wearable Posture Analyzer and detection system
 
 - Sentiment analysis to enhance prediction of timer series based stock prices
 

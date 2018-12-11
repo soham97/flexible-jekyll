@@ -60,7 +60,9 @@ Though this could have been a better dashboard, given the limited time this is w
 <br>
 
 ## Hackathon results
-![presenting the idea]({{site.baseurl}}/assets/img/siemens/present.jpg)
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/siemens/present.jpg" alt="presenting the idea"/>
+</p>
 <br>
 The idea was shortlisted in online round. In offline round (Bangalore) after evaluation by judges, our team was further shortlisted in top 5 teams. The top 5 teams had the honour to present their idea and solution to the entire audience with a question round in the end. After such scrutinising process, we were awarded <b>4th prize</b> in the competition. Thanks and congrats to my teammates Rahul and Ruturaj (from left to right in above image) without whom this wouldn't have been possible and as much fun.
 
