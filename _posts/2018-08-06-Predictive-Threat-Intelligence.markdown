@@ -37,7 +37,7 @@ IPS officer Pratik Thube addressing the COE-CNDS Threat Intelligence team
 
 Explaining IPS officer Pratik Thube how the developed algorithm can be used to track and predict malicious attacks in real time
 <p align="center">
-<img src="{{site.baseurl}}/assets/img/threat/ips.jpeg" alt="Explaining work to IPS officer Pratik Thube"/>
+<img src="{{site.baseurl}}/assets/img/threat/ips_explain.jpeg" alt="Explaining work to IPS officer Pratik Thube"/>
 </p>
 <br>
 
