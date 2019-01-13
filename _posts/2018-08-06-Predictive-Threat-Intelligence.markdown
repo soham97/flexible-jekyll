@@ -19,11 +19,25 @@ My work guided by Dr. Faruk Kazi lies uses the second approach to model attacker
 1. To collect real attack patterns, we setup Cowrie Honeypot at COE-CNDS lab. The honeypot attacks as traps and collects logs of real attackers attacking the system. This has led to collection of data rich in feature set which can be used in modelling and benefit research community.
 2. We have developed a semi-supervised Hidden Markov Model and a generative Long Short Term Memory Approach (LSTM) for modelling this data which can accurately predict the attacker’s future action 8 out of 10 times (80% accuracy). The approach and preliminary results are documented in paper titled 'Temporal and Stochastic Modelling of Attacker Behaviour' which is published in Springer CCIS (volume no. 941) - [paper link](https://link.springer.com/chapter/10.1007/978-981-13-3582-2_3)
 
-The end to end developed system which works on live data was presented to [Cyber Peace Foundation](https://www.cyberpeace.org/) and Economist from British Embassy. The work was also presented to IPS officer with prospects on implementing it on existing government infrastructure. The model are deployed on [DNIF](https://dnif.it/), an industry standard analytics platform.
+The end to end developed system which works on live data was presented to [Cyber Peace Foundation](https://www.cyberpeace.org/) and Economist from British Embassy. The work was also presented to IPS officer with prospects on implementing it on existing government infrastructure. The models are deployed on [DNIF](https://dnif.it/), an industry standard analytics platform.
 
 Some photos:
+
+Cyber Peace Foundation and Economist from British Embassy with COE-CNDS Threat Intelligence team
 <p align="center">
-<img src="{{site.baseurl}}/assets/img/threat/DNIF.jpeg" alt="working with DNIF engineers"/>
+<img src="{{site.baseurl}}/assets/img/threat/team.jpg" alt="Cyber Peace Foundation and Economist from British Embassy"/>
+</p>
+<br>
+
+IPS officer Pratik Thube addressing the COE-CNDS Threat Intelligence team
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/threat/ips3.jpeg" alt="IPS officer Pratik Thube"/>
+</p>
+<br>
+
+Explaining IPS officer Pratik Thube how the developed algorithm can be used to track and predict malicious attacks in real time
+<p align="center">
+<img src="{{site.baseurl}}/assets/img/threat/ips.jpeg" alt="Explaining work to IPS officer Pratik Thube"/>
 </p>
 <br>
 
