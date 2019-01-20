@@ -12,7 +12,7 @@ AI DeepFakes has a potential to launch a campaign of distorted information and c
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=f1zh0dQ3nrA"><img src="https://img.youtube.com/vi/f1zh0dQ3nrA/0.jpg" alt="AI DeepFake Makes Jack Ma Bollywood Star of 3 Idiots"
-  width="50%"></a>
+  width="100%"></a>
 </div>
 
 The architecture and losses developed will be published in research paper. The main aim of the research project is to detect DeepFake videos in the wild. Inorder to make this possible we are analyzing DeepFake generating methods inorder to exploit their irregularities. 
