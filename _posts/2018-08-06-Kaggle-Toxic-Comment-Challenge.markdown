@@ -18,7 +18,7 @@ In this Kaggle competition, the conversation AI challenges data scientist to bui
 - insult
 - identity_hate
 
-The official site of competition containing competition details: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+The official site of competition containing competition details: [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 I have included some visualisation below, for you get the distribution and target proportion of data. Some example of comments or samples of data have <u>NOT</u> been included due to their profanity.
 
@@ -66,4 +66,4 @@ Capsule Network which employed RNN as its base was developed by us to capture co
 ### <b>Results</b>: 
 We ranked 15th out of 4551 teams and achieved a Gold medal with final AUC ROC score of 0.9874 on test set. The competition ran for 4 months. During that time, I learnt a lot of machine learning techniques, various new tricks, and got to interact with great Data Scientist. It was great experience for me!
 
-<b>GitHub repo<b>: https://github.com/soham97/Toxic-Comment-Classification-Challenge-NLP
+<b>GitHub repo</b>: [https://github.com/soham97/Toxic-Comment-Classification-Challenge-NLP](https://github.com/soham97/Toxic-Comment-Classification-Challenge-NLP)
