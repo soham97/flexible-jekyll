@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-title: Predictive Threat Intelligence
-date: 2019-01-01 00:00:00 +0300
+title: Predictive Threat Intelligence (Final Year B.Tech Project)
+date: 2019-05-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: threat/nodes.png # Add image post (optional)
 tags: [predictive threat intelligence, machine learning, overview, research paper] # add tag
