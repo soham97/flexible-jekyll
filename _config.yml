@@ -1,4 +1,4 @@
-title: Welcome to Soham Deshmukh's playground
+title: Welcome to Soham's playground
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,7 +14,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Soham Deshmukh # add your name
 # author-img: david-freeman.jpg # add your photo
 author-img: profile_pic.JPG
-about-author: An electronic engineer who loves to play with data. # add description
+about-author: An electronics engineer who loves to play with data. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: soham97 # add your Github handle
