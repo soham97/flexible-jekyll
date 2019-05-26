@@ -75,4 +75,4 @@ The overall System has following main components:
 	</p>
 	<br>
 
-<b> Soon to be updated with more photos and ongoing research work. <b>
+<b>Github repository containing codes and full report is available [here](https://github.com/imrahulr/Predictive-Threat-Intelligence)</b>
