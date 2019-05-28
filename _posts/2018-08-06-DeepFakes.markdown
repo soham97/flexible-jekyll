@@ -10,10 +10,15 @@ tags: [DeepFakes, machine learning, Generative adversarial network] # add tag
 
 AI DeepFakes has a potential to launch a campaign of distorted information and create a law & order situation. Our attempt by VJTI AI & Deep learning team to demonstrate the technology on a lighter side and spread awareness is presented below. From technology perspective we built an architecture based on Generative Adversarial Network (GAN) and Autoencoders to swap face of two persons in the video. For purpose of demonstration we have swapped JackMa on AamirKhan in iconic 3 Idiots movie. The models where trained on NVIDIA V100 GPU. Watch carefully how eyes and lips are synchronized in the video.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.youtube.com/watch?v=f1zh0dQ3nrA"><img src="https://img.youtube.com/vi/f1zh0dQ3nrA/0.jpg" alt="AI DeepFake Makes Jack Ma Bollywood Star of 3 Idiots"
   width="100%"></a>
+</div> -->
+
+<div align="center">
+  <iframe style = "width:100%;" height="500" src = "https://www.youtube.com/embed/f1zh0dQ3nrA?rel=0&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 The architecture and losses developed will be published in research paper. The main aim of the research project is to detect DeepFake videos in the wild. Inorder to make this possible we are analyzing DeepFake generating methods inorder to exploit their irregularities. 
 
