@@ -14,7 +14,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Soham Deshmukh # add your name
 # author-img: david-freeman.jpg # add your photo
 author-img: profile_pic.JPG
-about-author: An electronics engineer who loves to play with data. # add description
+about-author: ECE masters student at CMU interested in using Signal Processing and Machine Learning to do cool stuff. Check out my Resume at https://www.slideshare.net/soham97/soham-deshmukh-resume # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: soham97 # add your Github handle
