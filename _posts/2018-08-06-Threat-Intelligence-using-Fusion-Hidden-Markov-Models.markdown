@@ -1,12 +1,28 @@
 ---
 published: true
 layout: post
-title: Predictive Threat Intelligence (Final Year B.Tech Project)
-date: 2019-05-01 00:00:00 +0300
+title: Threat Intelligence using Fusion Hidden Markov Model
+date: 2019-07-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: threat/nodes.png # Add image post (optional)
 tags: [predictive threat intelligence, machine learning, overview, research paper] # add tag
 ---
+Extending the topic of my final year project of Predictive Threat Intelligence, particularly in developing novel algorithm for understanding attacker behaviour and attack pattern to better predict attackers future actions. Link to my previous work in the domain [link](https://soham97.github.io/Predictive-Threat-Intelligence/)
+
+In this work, we propose a framework for inspecting and modelling the behavioural aspect of an attacker to obtain better insight predictive power on his future actions. For modelling we propose a novel semi-supervised algorithm called Fusion Hidden Markov Model (FHMM) which is more robust to noise, requires comparatively less training
+time, and utilizes the benefits of ensemble learning to better
+model temporal relationships in data. We further evaluate the
+performances of FHMM and compares it with both traditional
+algorithms like Markov Chain, Hidden Markov Model (HMM)
+and recently developed Deep Recurrent Neural Network (Deep
+RNN) architectures. We conduct the experiments on dataset consisting of real data attacks on a Cowrie honeypot system. FHMM
+provides accuracy comparable to deep RNN architectures at
+significant lower training time. Given these experimental results,
+we recommend using FHMM for modelling discrete temporal
+data for significantly faster training and better performance than
+existing methods.
+
+If the above seems interesting to you, do check out our full paper for theortical proof for the algorithm and the system developed on top of that: [link](https://arxiv.org/pdf/1905.11824.pdf)
 
 Big data analytics solutions, backed by machine learning and artificial intelligence, can help tackle the problems of cybersecurity breach and hacking. By employing the power of big data and machine learning, we can significantly improve cyber threat detection mechanisms. Predictive Threat Intelligence is one of the emerging focus of information security. In short, Predictive Threat Intelligence is based on understanding attacker behaviour and attack pattern to better predict his/her future actions. The foresight of attackers next actions, intentions and targets can help industries and organizations to take better precautionary decisions beforehand. Moreover, the foresight can expose major vulnerabilities or leaks in the existing system. This will help the industries and organizations fix unauthorized access points in their system before they can be used for intrusion. 
 
